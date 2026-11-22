@@ -1,5 +1,7 @@
 # env-guard-js
 
+[![CI](https://github.com/ravi912066-netizen/env-guard-js/actions/workflows/ci.yml/badge.svg)](https://github.com/ravi912066-netizen/env-guard-js/actions/workflows/ci.yml)
+
 [![npm version](https://img.shields.io/npm/v/env-guard-js.svg)](https://www.npmjs.com/package/env-guard-js)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/ravi912066-netizen/env-guard-js/blob/main/LICENSE)
 [![Build Status](https://github.com/ravi912066-netizen/env-guard-js/actions/workflows/ci.yml/badge.svg)](https://github.com/ravi912066-netizen/env-guard-js/actions)
